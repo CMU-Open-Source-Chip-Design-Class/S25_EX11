@@ -1,2 +1,4 @@
-# S25_EX11
-Starter code for EX11, Spring 2025
+# Exercise 11
+## Spring 2025
+
+This is the starter template for Exercise 11
